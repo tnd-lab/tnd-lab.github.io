@@ -4,10 +4,6 @@ title: Publications
 permalink: /publications/
 ---
 
-- [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=cwdP-oYAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}
-- [**PolyPublie**](https://www.polymtl.ca/expertises/en/do-tri-nhu/publications){:target="_blank"}
-- [**Codes on GitHub**](https://github.com/trinhudo?tab=repositories){:target="_blank"}
-
 ## 2025
 - **Generative and Explainable AI for High-Dimensional Channel Estimation**  
   	Nghia Thinh Nguyen and Tri Nhu Do  
