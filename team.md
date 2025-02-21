@@ -3,7 +3,10 @@ title: Team
 layout: page
 order: 2
 ---
-TN Team:
-- A
-- B
-- C
+TND Team:
+- Tri Nhu Do
+- Nghia Thinh Nguyen
+- Ngoc Long Pham
+
+
+
