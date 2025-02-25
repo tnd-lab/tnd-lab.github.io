@@ -16,11 +16,15 @@ permalink: /publications/
 
 - [**DRL-Based Maximization of the Sum Cross-Layer Achievable Rate for Networks Under Jamming**](https://ieeexplore.ieee.org/document/10852218)  
   	Abdul Basit, Muddasir Rahim, Tri Nhu Do, Nadir Adam, and Georges Kaddoum  
-  	_IEEE Transactions on Network and Service Management_  
+  	_IEEE Transactions on Network and Service Management_
+  	January 2025  
+
 
 - [**Transfer Learning-Empowered Physical Layer Security in Aerial Reconfigurable Intelligent Surfaces-Based Mobile Networks**](https://ieeexplore.ieee.org/abstract/document/10829561)  
   	Yosefine Triwidyastuti, Tri Nhu Do, Ridho Hendra Yoga Perdana, Kyusung Shim, and Beongku An  
-  	_IEEE Access_  
+  	_IEEE Access_
+  	January 2025  
+
 
 ## 2024
 
