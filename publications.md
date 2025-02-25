@@ -7,7 +7,12 @@ permalink: /publications/
 ## 2025
 - **Generative and Explainable AI for High-Dimensional Channel Estimation**  
   	Nghia Thinh Nguyen and Tri Nhu Do  
-  	_2025 IEEE International Conference on Communications_  
+  	_2025 IEEE International Conference on Communications_
+
+- [**Ground-to-UAV and RIS-assisted UAV-to-Ground Communication Under Channel Aging: Statistical Characterization and Outage Performance**](https://ieeexplore.ieee.org/document/10891853)  
+	Thanh Luan Nguyen, Georges Kaddoum, Tri Nhu Do, and Zygmunt J. Haas  
+	_IEEE Transactions on Communications_  
+	February 2025 
 
 - [**DRL-Based Maximization of the Sum Cross-Layer Achievable Rate for Networks Under Jamming**](https://ieeexplore.ieee.org/document/10852218)  
   	Abdul Basit, Muddasir Rahim, Tri Nhu Do, Nadir Adam, and Georges Kaddoum  
