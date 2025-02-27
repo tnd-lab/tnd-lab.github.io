@@ -27,6 +27,15 @@ permalink: /publications/
 
 
 ## 2024
+- **[Fast Beam Placement for Ultra-Dense LEO Networks](https://ieeexplore.ieee.org/document/10798457)**  
+	Trinh Van Chien, Nguyen Minh Quan, Tri Nhu Do, Cuong Le, Tan N. Nguyen, and Symeon Chatzinotas  
+	_IEEE Wireless Communications Letters_  
+	December 2024
+
+- **[Online Energy-Efficient Beam Bandwidth Partitioning in mmWave Mobile Networks](https://ieeexplore.ieee.org/abstract/document/10757461)**  
+	Zoubeir Mlika, Tri Nhu Do, Adel Larabi, Jennie Diem Vo, François Leduc-Primeau, Jean-François Frigon    
+	_IEEE 100th Vehicular Technology Conference (VTC2024-Fall)_  
+	October 2024
 
 - **[Federated Learning-Enabled Jamming Detection for Stochastic Terrestrial and Non-Terrestrial Networks](https://ieeexplore.ieee.org/document/10592062)**   
   	Aida Meftah, Tri Nhu Do, Georges Kaddoum, and Chamseddine Talhi  
