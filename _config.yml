@@ -1,0 +1,23 @@
+title: TND Lab    
+description : "Telecom Neural Detection Lab"
+
+author:
+  name: TND Lab
+  email: 
+
+# The `>` after `description:` means to ignore line-breaks until next key.
+# If you want to omit the line-break after the end of text, use `>-` instead.
+#description: >
+
+
+# Build settings
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+header_pages:
+   - publications.md
+   - research.md
